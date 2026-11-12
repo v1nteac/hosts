@@ -23,3 +23,4 @@ cat /etc/hosts | while read -r ip name; do
     verifica_dns "$name" "$ip" "$DNS_SERVER"
 
 done
+# Modificare student A (Robert)
